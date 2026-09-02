@@ -1,0 +1,59 @@
+{
+  "events": [
+    {
+      "id": "indra-jatra-2083",
+      "title": "Grand Indra Jatra 2083",
+      "date": "September 2026",
+      "location": "Basantapur Durbar Square, Kathmandu",
+      "category": "Festival",
+      "status": "Featured",
+      "description": "A community-led cultural celebration bringing traditional performance, music and people together in the heart of Kathmandu."
+    },
+    {
+      "id": "community-session",
+      "title": "Community Culture Session",
+      "date": "Coming Soon",
+      "location": "Kathmandu",
+      "category": "Community",
+      "status": "Upcoming",
+      "description": "An intimate gathering created to connect young people with local culture, stories and creative practice."
+    },
+    {
+      "id": "local-collab",
+      "title": "The Locals Collaborative",
+      "date": "Coming Soon",
+      "location": "Kathmandu Valley",
+      "category": "Collaboration",
+      "status": "Upcoming",
+      "description": "A collaborative platform for creators, performers, brands and communities who want to build meaningful local experiences."
+    }
+  ],
+  "donation": {
+    "title": "Support The Locals",
+    "message": "Your contribution helps us create cultural events, support performers and build stronger community experiences.",
+    "accountName": "The Locals Kathmandu",
+    "bank": "Add bank or wallet from Admin Dashboard",
+    "accountNumber": "Add account / wallet ID",
+    "qrImage": ""
+  },
+  "submissions": [],
+  "applications": [
+    {
+      "id": "b9e7a6a3-b5d4-47de-8b4b-f1a049c6b0f8",
+      "applicationType": "volunteer",
+      "name": "Sujal Manandhar",
+      "email": "manandharsujal0929@gmail.com",
+      "phone": "9860799810",
+      "age": "21",
+      "event": "Indra Jatra 2083",
+      "role": "Media",
+      "experience": "Hi",
+      "availability": "Flexible",
+      "organisation": "",
+      "message": "Hi",
+      "status": "Accepted",
+      "createdAt": "2026-09-02T08:35:14.151Z",
+      "updatedAt": "2026-09-02T08:40:08.572Z"
+    }
+  ]
+}
